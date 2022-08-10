@@ -1,9 +1,9 @@
 ### Hello there 👋🏼 Sebastian here! 🫡 
 
 
-<center> ![Copia de IMG_3394](https://user-images.githubusercontent.com/39862006/183790494-06d623ac-ffc1-4616-b08b-1c630d8f2bf2.png)
+<p align=center> ![Copia de IMG_3394](https://user-images.githubusercontent.com/39862006/183790494-06d623ac-ffc1-4616-b08b-1c630d8f2bf2.png)
 
- </center>
+ </p>
 
 
 
