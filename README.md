@@ -14,7 +14,7 @@
 
 Please feel free to take a look to my repositories and projects.
 
-Take care 😉🚀
+Take care 😉   💨💨🚀
 
 
 
