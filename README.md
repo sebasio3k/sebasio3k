@@ -1,11 +1,7 @@
-### Hello there 👋🏼 Sebastian here! 🫡 
+<h1 align="center"> Hello there 👋🏼 Sebastian here! 🫡 </h1>
 
 
 <!-- <p align="center"> hola</p> -->
-
-
- ![Copia de IMG_3394](https://user-images.githubusercontent.com/39862006/183791164-f43278c7-5097-499b-9f29-296ba73a25cc.png)
-
 
 
 
@@ -19,6 +15,10 @@
 Please feel free to take a look to my repositories and projects.
 
 Take care 😉🚀
+
+
+
+ ![Copia de IMG_3394](https://user-images.githubusercontent.com/39862006/183791164-f43278c7-5097-499b-9f29-296ba73a25cc.png)
 
 <!--
 **sebasio3k/sebasio3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
