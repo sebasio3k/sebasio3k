@@ -18,7 +18,7 @@
 
 Please feel free to take a look to my repositories and projects.
 
-Take care 😉 ...
+Take care 😉🚀
 
 <!--
 **sebasio3k/sebasio3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
