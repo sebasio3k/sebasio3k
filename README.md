@@ -1,4 +1,4 @@
-### Hello there 👋🏼
+### Hello there 👋🏼 Sebastian here! 🫡
 
 - 🌱 I’m currently learning and practicing Django REST Framework 🤗, interested and soon getting to know React
 - 💬 Ask me about Python 🐍, Django, Vue js 
