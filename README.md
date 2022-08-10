@@ -1,9 +1,16 @@
-### Hello there 👋🏼 Sebastian here! 🫡
+### Hello there 👋🏼 Sebastian here! 🫡 
+
+
+<center> ![Copia de IMG_3394](https://user-images.githubusercontent.com/39862006/183790494-06d623ac-ffc1-4616-b08b-1c630d8f2bf2.png)
+
+ </center>
+
+
 
 - 🌱 I’m currently learning and practicing Django REST Framework 🤗, interested and soon getting to know React
 - 💬 Ask me about Python 🐍, Django, Vue js 
 - 📫 How to reach me: sebastianhodev@gmail.com 
-- https://www.linkedin.com/in/sebastian-hernandez-inkrib/
+- 🔗 https://www.linkedin.com/in/sebastian-hernandez-inkrib/
 - ⚡ Fun fact: into languages 🇬🇧 🇪🇸 🇫🇷 and RE 👾🧟
 
 Please feel free to take a look to my repositories and projects.
