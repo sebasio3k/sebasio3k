@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning and practicing Django REST Framework 🤗, interested and soon getting to know React.
-- 💬 Ask me about Python 🐍, Django, Vue js.
+- 💬 Ask me about Python 🐍, Django, Vue js, NestJs🪺.
 - 📫 How to reach me: sebastianhodev@gmail.com 
 - 🔗 https://www.linkedin.com/in/sebastian-hernandez-inkrib/
 - ⚡ Fun fact: into languages 🇬🇧 🇪🇸 🇫🇷 and RE 👾🧟.
